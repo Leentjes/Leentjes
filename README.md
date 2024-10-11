@@ -1,6 +1,6 @@
 # About Me
 
-## Quality-Driven Data Analyst with a Design and Teaching Background
+## ⭐⭐⭐ Quality-Driven 🎨 Data Analyst with a Design and 🎓 Teaching Background
 
 **Designer and data, do they go together?**  
 For me, the answer is a resounding yes.
@@ -32,5 +32,14 @@ My strong empathy and natural interest in the perspectives of others and process
 </a>
 
 ---
+### 🔍 Explore the Design Academy Courses I Developed in My Previous Role
+
+<a href="https://www.addesign.academy/stock-mockup-presentations" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e75013f6-7614-437a-93de-81b142e91ede" alt="Design Academy Courses" width="500"/>
+</a>
+
+---
 
 Feel free to connect with me, explore my projects, or share ideas!
+
+
