@@ -3,7 +3,7 @@
 
 # About Me
 
-## ⭐⭐⭐ Quality-Driven 🎨 Data Analyst with a Design and 🎓 Teaching Background
+## ⭐⭐⭐ Quality-Driven Data Analyst with a 🎨 Design and 🎓 Teaching Background
 
 Thanks to my background as a designer and teacher, I make complex information clear and visually accessible through storytelling. 
 I have strong empathy and a natural interest in the perspectives of others and processes, which helps me tailor data insights to different audiences.
