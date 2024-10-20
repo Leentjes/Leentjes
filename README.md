@@ -1,18 +1,18 @@
+
+<img width="960" alt="Turing College Github" src="https://github.com/user-attachments/assets/a4903c9e-e43b-4b7d-9aa0-882555b6a0f7">
+
 # About Me
 
 ## ⭐⭐⭐ Quality-Driven 🎨 Data Analyst with a Design and 🎓 Teaching Background
 
+Thanks to my background as a designer and teacher, I make complex information clear and visually accessible through storytelling. 
+I have strong empathy and a natural interest in the perspectives of others and processes, which helps me tailor data insights to different audiences.
+
 **Designer and data, do they go together?**  
 For me, the answer is a resounding yes.
-
-<img src="https://github.com/user-attachments/assets/ea1151d0-4eac-43ac-8fef-a15b2ced19af" alt="About Me" width="500"/>
-
 Equipped with a foundation in design and over half a year of data analysis experience at Turing College, I bring a unique blend of creativity and analytical thinking to problem-solving.
 
-With 6+ years of experience in education and client presentations, I am a solution-oriented team player with a keen eye for quality, who enjoys going in-depth.  
-Thanks to my background as a designer and teacher, I make complex information clear and visually accessible through storytelling.  
-My strong empathy and natural interest in the perspectives of others and processes help me tailor data insights to different audiences.
-
+<img src="https://github.com/user-attachments/assets/ea1151d0-4eac-43ac-8fef-a15b2ced19af" alt="About Me" width="300"/>
 ---
 
 ### Tools I Use:
