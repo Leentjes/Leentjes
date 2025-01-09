@@ -1,45 +1,54 @@
-
-<img width="960" alt="Turing College Github" src="https://github.com/user-attachments/assets/a4903c9e-e43b-4b7d-9aa0-882555b6a0f7">
-
 # About Me
 
-## ⭐⭐⭐ Quality-Driven Data Analyst with a 🎨 Design and 🎓 Teaching Background
+## ⭐ RESULTS-ORIENTED MARKETING ANALYST WITH CUSTOMER FOCUS ⭐
+<table border="0">
+  <tr>
+    <td>
+      <span style="color: #413DFF;">Empathic and process-oriented thinker who is currently specializing in analyzing, optimizing and visualizing marketing processes and customer journeys.</span>  
+      <br>
+      <span style="color: #413DFF;">Combines analytical skills with creativity to turn data into strategies that make a real difference.</span>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/63ca7727-80d8-4676-86b2-a6e6659de320" alt="Portfolio Projects" width="350"/>
+    </td>
+  </tr>
+</table>
 
-Thanks to my background as a designer and teacher, I make complex information clear and visually accessible through storytelling. 
-I have strong empathy and a natural interest in the perspectives of others and processes, which helps me tailor data insights to different audiences.
 
-**Designer and data, do they go together?**  
-For me, the answer is a resounding yes.
-Equipped with a foundation in design and over half a year of data analysis experience at Turing College, I bring a unique blend of creativity and analytical thinking to problem-solving.
 
-<img src="https://github.com/user-attachments/assets/ea1151d0-4eac-43ac-8fef-a15b2ced19af" alt="About Me" width="300"/>
+
+
 ---
 
 ### Tools I Use:
-<p style="display: flex; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/47bf5a3a-d274-4387-841e-c6dd90d3cda6" alt="Big Query Icon" style="width: 48px; height: 48px; margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets Icon" style="width: 48px; height: 48px; margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Looker Studio Icon" style="width: 48px; height: 48px; margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel Icon" style="width: 48px; height: 48px; margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Icon" style="width: 48px; height: 48px; margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="PowerPoint Icon" style="width: 48px; height: 48px; margin-right: 10px;"/>
-</p>
+<img src="https://github.com/user-attachments/assets/ccfcc41a-464a-4f26-bd3f-2dc76804af7d" alt="Portfolio Projects" width="400"/>  
+
+<img src="https://github.com/user-attachments/assets/7a2d0554-2f88-494c-97d8-3a2f658716bc" alt="Portfolio Projects" width="400"/>  
 
 ---
+
+### Designer and data, do they go together? 
+<span style="color: #413DFF;">For me, the answer is a resounding yes. Equipped with a foundation in **design**, **digital marketing certification** from Google and a year of **data analysis experience** at Turing College,  
+I bring a unique blend of creativity and analytical thinking to problem-solving.</span>  
+
+## Portfolio  
+[Take a look at my portfolio with hands-on projects](https://neeltjedesignsdata.carrd.co/)  
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a92cc4dc-00ce-4302-814c-67fa1df9b57f" alt="Portfolio Projects" width="500"/>
+</div>  
+
+## Certificates
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ed13994c-47a3-4b12-a7b3-4146f1e46c7e" alt="Google Certificate" width="500"/>
+</div>  
+
+## Connect with me
+<span style="color: #413DFF;">Feel free to connect with me, explore my projects, or share ideas!</span>  
 
 <a href="https://www.linkedin.com/in/neeltjeschoenmaker/">
     <img src="https://img.shields.io/badge/Let's_Connect!-LinkedIn-blue" style="width: 200px; height: auto;"/>
 </a>
-
----
-### 🔍 Explore the Design Academy Courses I Developed in My Previous Role
-
-<a href="https://www.addesign.academy/stock-mockup-presentations" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e75013f6-7614-437a-93de-81b142e91ede" alt="Design Academy Courses" width="500"/>
-</a>
-
----
-
-Feel free to connect with me, explore my projects, or share ideas!
 
 
