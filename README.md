@@ -4,9 +4,9 @@
 <table border="0">
   <tr>
     <td>
-      <span style="color: #413DFF;">Empathic and process-oriented thinker who is currently specializing in analyzing, optimizing and visualizing marketing processes and customer journeys.</span>  
+      <span style="color: #413DFF;">Empathic and process-oriented problem solver currently specializing in analyzing, optimizing and visualizing marketing data. Combines analytical skills with creative insight to improve digital campaigns and reach customers through effective social advertising strategies.</span>  
       <br>
-      <span style="color: #413DFF;">Combines analytical skills with creativity to turn data into strategies that make a real difference.</span>
+      <span style="color: #413DFF;">
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/63ca7727-80d8-4676-86b2-a6e6659de320" alt="Portfolio Projects" width="350"/>
