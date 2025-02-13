@@ -1,6 +1,6 @@
 # <span style="color: #413DFF;">About Me</span>
 
-## ⭐ RESULTS-ORIENTED MARKETING ANALYST ⭐  
+## ⭐ RESULTS-ORIENTED DATA & MARKETING ANALYST ⭐  
 
 ### 🚀 Passionate About Optimization & Data-Driven Strategy  
 
