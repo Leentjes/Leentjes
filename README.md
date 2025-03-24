@@ -4,47 +4,18 @@
 
 ### 🚀 Passionate About Optimization & Data-Driven Strategy  
 
-My passion for **process optimization, innovation, and creating valuable content** has ultimately led me to the role of an **online marketing analyst**.  
+**Junior Data Analyst | Career Switcher with 3+ Years of Workflow Optimization & Implementation Experience |  
+20 Years of Design Experience | 8 Years of Software Training | Proficient in SQL, Power BI, Python**  
 
-With **hands-on training at Turing College** and **Google certifications**, I specialize in **data analysis for digital marketing**.  
-I excel at **processing data, analyzing insights, and communicating results**, using tools like **SQL, Excel, Python, and dashboards**  
-to turn marketing data into **actionable strategies**.  
+Immediately available for a **junior software implementation consultant** or **junior data analyst** role (32-36 hours),  
+within a **1-hour commute from Voorburg/The Hague**.  
+Open to opportunities in: **Delft, The Hague, Gouda, Leiden, Rijswijk, Rotterdam, Wateringen, Wassenaar, Zoetermeer.**  
 
----
+🔹 **Strong in visualization, clear communication, and problem-solving.**  
+🔹 Passionate about learning, supporting others in work processes, and translating goals into clear, practical actions using analytical and strategic skills.  
 
-## <span style="color: #413DFF;">🎯 What Can I Offer Your Company?</span>  
-
-With **fluency in three languages** (English, German, and Dutch) and a background in **design, workflow optimization, and e-learning**,  
-I bring a **unique blend of creativity, strategic insight, and data-driven marketing skills**.  
-
-✅ **Optimize websites & content**  
-Enhance the **customer journey** with **visually appealing, culturally aligned messaging**  
-to deliver an **exceptional user experience**.  
-
-✅ **Strengthen marketing campaigns**  
-Transform **data-driven insights** into **targeted, measurable actions**,  
-making campaigns **more efficient and effective**.  
-
-✅ **Analyze customer behavior in-depth**  
-Leverage techniques such as **CLV calculations, customer segmentation, funnel analysis, and A/B testing**  
-to ensure strategies are **grounded in data, not assumptions**.  
-
-✅ **Achieve sustainable growth**  
-Identify **hidden opportunities**, refine **marketing strategies**, and **optimize results for maximum impact**.  
-
----
-
-## <span style="color: #413DFF;">🔍 What I'm Looking For</span>  
-
-A role as an **Online Marketing Analyst** in an **innovative environment**,  
-where I can apply my **analytical skills and strategic mindset**  
-to **drive growth and deliver meaningful impact**.  
-
----
-
-## <span style="color: #413DFF;">🤝 Let's Connect!</span>  
-
-Are you looking for a **marketing analyst** who combines **creativity, technical expertise, and data** to **grow your business**?  
+✅ **Technical Skills:** SQL, Excel, Python, Power BI, Looker, BigQuery, Adobe Creative Suite, tech-savvy  
+✅ **Languages:** Dutch, English, and German (fluent)  
 
 ✨ **I'm ready to get started—shall we connect soon?** ✨  
 
