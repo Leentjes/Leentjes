@@ -61,15 +61,18 @@ I bring a **unique blend of creativity and analytical thinking** to problem-solv
 ---
 
 ## <span style="color: #413DFF;">📜 Certificates</span>  
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ec0c7164-5a74-4b6e-ac43-cce536223fd9" alt="Google Certificate" width="750"/>
+</div>  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/ed13994c-47a3-4b12-a7b3-4146f1e46c7e" alt="Google Certificate" width="500"/>
+    <img src="https://github.com/user-attachments/assets/ed13994c-47a3-4b12-a7b3-4146f1e46c7e" alt="Google Certificate" width="750"/>
 </div>  
 
 <br>  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7ba4152d-60e6-4302-8e08-ad0b9802d095" alt="Google Certificate" width="500"/>
+    <img src="https://github.com/user-attachments/assets/7ba4152d-60e6-4302-8e08-ad0b9802d095" alt="Google Certificate" width="750"/>
 </div>  
 
 
